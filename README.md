@@ -18,34 +18,34 @@ Ejecute el ejecutable en una terminal
 	
 
 
-Informació 
+Informació :
 
 Edu Amoros 
-Gmail
+Gmail :
 
 
- Twitter 
+ Twitter :
 
 
- GitHub
+ GitHub:
 
 
 
 
 Iván Figueredo
- Gmail
+ Gmail:
 
 
- Twitter 
+ Twitter :
 
 
- GitHub
+ GitHub:
 
 
 Mireia López  
- Gmail
+ Gmail:
      Mlopeesteveterrades@gmail.com
- Twitter 
+ Twitter :
      Toxic_Mire
- GitHub
+ GitHub:
      Mirelopez  (https://github.com/mirelopez)
