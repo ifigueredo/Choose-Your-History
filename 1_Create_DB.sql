@@ -45,7 +45,7 @@ fechamodificacion varchar(45));
 create table if not exists OPTIONS(
 id_options int primary key auto_increment,
 Name varchar(45),
-Description varchar(45),
+Description varchar(450),
 Response int,
 id_adventures int,
 id_steps int ,
