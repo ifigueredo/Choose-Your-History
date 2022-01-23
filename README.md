@@ -33,13 +33,13 @@ Gmail :
 
 
 Iván Figueredo
- Gmail:
+ Gmail: ivanfigueredo.et@gmail.com
 
 
- Twitter :
+ Twitter : @iTs_IvanPsk
 
 
- GitHub:
+ GitHub: https://github.com/ifigueredo
 
 
 Mireia López  
