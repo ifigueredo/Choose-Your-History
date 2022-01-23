@@ -5,6 +5,19 @@ Definició
 Es un joc de efecte “papallona” (el final de la historia o joc es dicta per les teves decisions). Tens un menú d'opcions. On pots crear el teu propi usuari amb contrasenya. Pots “jugar” una de les nostres històries. Pots veure els reports de les històries. 
 
 
+Continguts d'interés:
+> Per realitzar la conexio al sistema operatiu:
+	> ssh -i LaMaquinita@20.61.60.74
+	
+> Per realitzar la conexio a la base de dades:
+	> LaMaquinita | 1233 | 20.61.60.74:3306
+	
+> Brancas dels programadors:
+	> ifigueredo -> Iván Figueredo AMS
+	> mlopez -> Mireia López AWS
+	> eamoros -> Eduardo Amorós AMS
+
+
 Instal·lació de la base de dades : 
 
 Descarregar el Release del GitHub 
@@ -13,10 +26,9 @@ Ejecutarlos en el orden mencionado en el MySQL Workbench (1 create, 2 alter i 4 
 
 Codi del joc :    
 Descarregar el Release del GitHub 
-Agafar els document Main.py
-Ejecute el ejecutable en una terminal 
+Agafar els document M3/Main.py
+Executi el arxiu .py en una terminal 
 	
-
 
 Informació :
 
