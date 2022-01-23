@@ -25,7 +25,7 @@ fechamodificacion varchar(45));
 create table if not exists STEP(
 id_steps int primary key auto_increment,
 Name varchar(45),
-Description varchar(450),
+Description varchar(850),
 id_adventures int,
 id_options int ,
 usuariocreacion varchar(45),
