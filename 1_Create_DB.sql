@@ -15,7 +15,7 @@ fechamodificacion varchar(45) );
 create table if not exists CHARACTERS(
 id_character int Primary key auto_increment,
 Name varchar(45),
-Description varchar(45),
+Description varchar(200),
 usuariocreacion varchar(45),
 fechacreacion datetime,
 usuariomodificacion varchar(45),
