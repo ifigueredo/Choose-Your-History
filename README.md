@@ -21,13 +21,15 @@ Ejecute el ejecutable en una terminal
 Informació :
 
 Edu Amoros 
-Gmail :
+Gmail : edamoroslopez.cf@iesesteveterradas.cat
 
 
- Twitter :
+
+ Twitter: @edumar026
 
 
- GitHub:
+
+ GitHub: https://github.com/Edu026
 
 
 
